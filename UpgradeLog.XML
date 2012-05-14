@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MaoMaoFriendsWeb">
+</Property><Property Name="Solution File" Value="C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\MaoMaoFriendsWeb.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\MaoMaoFriendsWeb.v11.suo">
+</Property><Property Name="Date" Value="2012年4月15日">
+</Property><Property Name="Time" Value="9:27">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="MaoMaoFriendsWeb.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="MaoMaoFriendsWeb.sln" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MaoMaoFriendsWeb.v11.suo" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb.v11.suo">
+</Event><Event ErrorLevel="3" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\MaoMaoFriendsWeb.csproj" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\MaoMaoFriendsWeb.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\MaoMaoFriendsWeb.csproj">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\MaoMaoFriendsWeb.csproj.user" Description="Project user file successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\MaoMaoFriendsWeb.csproj.user">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\HTML\LoginPage.htm" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\HTML\LoginPage.htm">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\Scripts\jquery-1.3.1.js" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\Scripts\jquery-1.3.1.js">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\Scripts\jquery.cookie.js" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\Scripts\jquery.cookie.js">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\Scripts\LoginPage.js" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\Scripts\LoginPage.js">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\Web.config" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\Web.config">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\Web.Debug.config" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\Web.Debug.config">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\Web.Release.config" Description="File successfully backed up as C:\Users\Administrator\Documents\Visual Studio 11\Projects\MaoMaoFriendsWeb\Backup\MaoMaoFriendsWeb\Web.Release.config">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\MaoMaoFriendsWeb.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\MaoMaoFriendsWeb.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MaoMaoFriendsWeb.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MaoMaoFriendsWeb.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MaoMaoFriendsWeb" Source="MaoMaoFriendsWeb\MaoMaoFriendsWeb.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
