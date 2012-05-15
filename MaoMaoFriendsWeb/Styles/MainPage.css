@@ -1,7 +1,7 @@
 ﻿#content
 {
-    /*border-style: double;
-    border-width: thin;*/
+    border-style: double;
+    border-width: thin;
     margin: 10px auto;
     width: 800px;
     padding-bottom: 150px;
@@ -57,8 +57,10 @@
 	height:20px;
 }
 /**产品分类样式**/
-.idmsg_container .person_info{
-    background:#FFFFFF;
+.idmsg_container .person_info
+{
+    margin: 10px;
+    background: #FFFFFF;
 }
 
 /*滚动广告样式*/
